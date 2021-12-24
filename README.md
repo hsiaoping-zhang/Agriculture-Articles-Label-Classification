@@ -22,8 +22,8 @@ AI CUP 2021 競賽: 農業文章文字標註及辨識
 - model : `Bidirectional LSTM` 
 
 ## 流程
-1. 斷詞: `Data Preprocessing.ipynb`, `Word Frequency.ipynb`
-2. 過濾: `Main Filter.ipynb`
+1. 資料前處理: `Data Preprocessing.ipynb`, `Word Frequency.ipynb`
+2. 第一層過濾: `Main Filter.ipynb`
 3. 模型: `Secondary Filter.ipynb`
 
 
