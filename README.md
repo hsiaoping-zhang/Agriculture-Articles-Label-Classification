@@ -8,8 +8,8 @@ AI CUP 2021 競賽: 農業文章文字標註及辨識
 - Test Data Set (Private)：420篇 (共420 x 419種組合；Yes or No)
 
 ## 流程
-1. 斷詞
-2. 過濾
-3. 模型
-4. 檢討
+1. 斷詞: `Data Preprocessing.ipynb`, `Word Frequency.ipynb`
+2. 過濾: `Main Filter.ipynb`
+3. 模型: `Secondary Filter.ipynb`
+
 
